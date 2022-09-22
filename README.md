@@ -2,6 +2,7 @@
 Drums for Developers (DfD) repository includes notation explanations, samples, lessons, reference material, songs, and more for all drum-loving developers. Feel free to contribute or support this project if you like our mission.
 
 # Percussion notation
+Drum legend recommended by the Percussive Arts Society
 ![Drums notation](https://upload.wikimedia.org/wikipedia/commons/6/65/Sibelius_drum_legend.png) Source `Hyacinth at the English Wikipedia, CC BY-SA 3.0, via Wikimedia Commons`
 
 # Drums for Developers tablature
