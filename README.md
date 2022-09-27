@@ -34,3 +34,8 @@ Drum legend recommended by the Percussive Arts Society
 - `COW` - Cowbell
 - `HT`  - High tom-tom
 - `OT`  - Open triangle
+
+## Tempo
+While tempo is described or indicated in many different ways, including with a range of words (e.g., "Slowly", "Adagio" and so on), it is typically measured in beats per minute (bpm or BPM) [Wikipedia](https://en.wikipedia.org/wiki/Tempo).
+- BPM80 - 80 bits per minute
+- BPM120 - 120 bits per minute
