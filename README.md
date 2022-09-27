@@ -60,6 +60,9 @@ Typically, a piece consists of several bars of the same length, and in modern mu
 > Simbol `:` enabling notes for drum elements
 4. `HH`:`BD`+`HH`:`SD`+`HH`:`BD`+`HH`:`BD`
 > ![Line 3 and 4 - Notation](/images/2.jpg)
+> Line 3 and 4 - Notation
+
 > Simbol `|` connect multiple consecutive notes
 5. `HH`:`BD`|`HH`+`HH`:`SD`+`HH`:`BD`|`HH`+`HH`:`BD`
 > ![Line 5 - Notation](/images/3.jpg)
+> Line 5 - Notation
