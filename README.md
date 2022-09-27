@@ -37,13 +37,26 @@ Drum legend recommended by the Percussive Arts Society
 
 ## Tempo
 While tempo is described or indicated in many different ways, including with a range of words (e.g., "Slowly", "Adagio" and so on), it is typically measured in beats per minute (bpm or BPM) [Wikipedia](https://en.wikipedia.org/wiki/Tempo).
-- BPM80 - 80 bits per minute
-- BPM120 - 120 bits per minute
+- `BPM80` - 80 bits per minute
+- `BPM120` - 120 bits per minute
 
 ## Bar - Time signature
 In musical notation, a bar (or measure) is a segment of time corresponding to a specific number of beats in which each beat is represented by a particular note value and the boundaries of the bar are indicated by vertical bar lines. Dividing music into bars provides regular reference points to pinpoint locations within a musical composition. It also makes written music easier to follow, since each bar of staff symbols can be read and played as a batch.
 
 Typically, a piece consists of several bars of the same length, and in modern musical notation the number of beats in each bar is specified at the beginning of the score by the time signature. In simple time, (such as 3/4), the top figure indicates the number of beats per bar, while the bottom number indicates the note value of the beat (the beat has a quarter note value in the 3/4 example). [Wikipedia](https://en.wikipedia.org/wiki/Bar_(music)).
-- BAR3/4 - 3/4 time indicates that there are three beats per bar and each beat has the duration of a quarter note. 
-- BAR6/8 - 6/8 time indicates that there are six beats per measure and each beat has the duration of an eighth-note.
-- BAR4/4 - 4/4 time indicates that are four beats per measure and each beat has the duration of a quarter-note.
+- `BAR3/4` - 3/4 time indicates that there are three beats per bar and each beat has the duration of a quarter note. 
+- `BAR6/8` - 6/8 time indicates that there are six beats per measure and each beat has the duration of an eighth-note.
+- `BAR4/4` - 4/4 time indicates that are four beats per measure and each beat has the duration of a quarter-note.
+
+# Drums for Developers Notation
+## Example 1 file
+> Line 1 - Tempo
+1. `BPM80` 
+> Line 2 - Time signature
+2. `BAR4/4` 
+> Line 3+ Music Notation - Each line representes one bar (measure)
+> 
+> Simbol `+` connecting all notes in bar
+3. `HH`+`HH`+`HH`+`HH`
+4. `HH`:`BD`+`HH`:`SD`+`HH`:`BD`+`HH`:`BD`
+5. `HH`:`BD`|`HH`+`HH`:`SD`+`HH`:`BD`|`HH`+`HH`:`BD`
