@@ -49,7 +49,7 @@ Typically, a piece consists of several bars of the same length, and in modern mu
 - `BAR4/4` - 4/4 time indicates that are four beats per measure and each beat has the duration of a quarter-note.
 
 # Drums for Developers Notation
-## Example 1 file
+## Example 1
 > Line 1 - Tempo
 1. `BPM80` 
 > Line 2 - Time signature
@@ -59,7 +59,7 @@ Typically, a piece consists of several bars of the same length, and in modern mu
 3. `HH`+`HH`+`HH`+`HH`
 > Simbol `:` enabling notes for drum elements
 4. `HH`:`BD`+`HH`:`SD`+`HH`:`BD`+`HH`:`BD`
-> ![Line 3 and 4 - Notation](/images/2.png)
+> ![Line 3 and 4 - Notation](/images/2.jpg)
 > Simbol `|` connect multiple consecutive notes
 5. `HH`:`BD`|`HH`+`HH`:`SD`+`HH`:`BD`|`HH`+`HH`:`BD`
-> ![Line 5 - Notation](/images/3.png)
+> ![Line 5 - Notation](/images/3.jpg)
