@@ -39,3 +39,10 @@ Drum legend recommended by the Percussive Arts Society
 While tempo is described or indicated in many different ways, including with a range of words (e.g., "Slowly", "Adagio" and so on), it is typically measured in beats per minute (bpm or BPM) [Wikipedia](https://en.wikipedia.org/wiki/Tempo).
 - BPM80 - 80 bits per minute
 - BPM120 - 120 bits per minute
+
+## Bar
+In musical notation, a bar (or measure) is a segment of time corresponding to a specific number of beats in which each beat is represented by a particular note value and the boundaries of the bar are indicated by vertical bar lines. Dividing music into bars provides regular reference points to pinpoint locations within a musical composition. It also makes written music easier to follow, since each bar of staff symbols can be read and played as a batch.
+
+Typically, a piece consists of several bars of the same length, and in modern musical notation the number of beats in each bar is specified at the beginning of the score by the time signature. In simple time, (such as 3/4), the top figure indicates the number of beats per bar, while the bottom number indicates the note value of the beat (the beat has a quarter note value in the 3/4 example). [Wikipedia](https://en.wikipedia.org/wiki/Bar_(music)).
+- BAR4/4
+- BAR3/4
