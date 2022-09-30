@@ -66,3 +66,12 @@ Typically, a piece consists of several bars of the same length, and in modern mu
 5. `HH`:`BD`|`HH`+`HH`:`SD`+`HH`:`BD`|`HH`+`HH`:`BD`
 > ![Line 5 - Notation](/images/3.jpg)
 > Line 5 - Notation
+
+### RAW File
+```
+BPM80
+BAR4/4
+HH+HH+HH+HH
+HH:BD+HH:SD+HH:BD+HH:BD
+HH:BD|HH+HH:SD+HH:BD|HH+HH:BD
+```
