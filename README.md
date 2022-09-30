@@ -55,15 +55,15 @@ Typically, a piece consists of several bars of the same length, and in modern mu
 > Line 2 - Time signature
 2. `BAR4/4` 
 > Line 3+ Music Notation - Each line representes one bar (measure)
-> Simbol `+` connecting all notes in bar
-3. `HH`+`HH`+`HH`+`HH`
-> Simbol `:` enabling notes for drum elements
-4. `HH`:`BD`+`HH`:`SD`+`HH`:`BD`+`HH`:`BD`
+> Simbol `|` connecting all notes in bar
+3. `HH`|`HH`|`HH`|`HH`
+> Simbol `+` enabling notes for drum elements
+4. `HH`+`BD`|`HH`+`SD`|`HH`+`BD`|`HH`+`BD`
 > ![Line 3 and 4 - Notation](/images/2.jpg)
 > Line 3 and 4 - Notation
 
-> Simbol `|` connect multiple consecutive notes
-5. `HH`:`BD`|`HH`+`HH`:`SD`+`HH`:`BD`|`HH`+`HH`:`BD`
+> Simbol `:` connect multiple consecutive notes
+5. `HH`+`BD`:`HH`|`HH`+`SD`|`HH`+`BD`:`HH`|`HH`+`BD`
 > ![Line 5 - Notation](/images/3.jpg)
 > Line 5 - Notation
 
@@ -71,7 +71,7 @@ Typically, a piece consists of several bars of the same length, and in modern mu
 ```
 BPM80
 BAR4/4
-HH+HH+HH+HH
-HH:BD+HH:SD+HH:BD+HH:BD
-HH:BD|HH+HH:SD+HH:BD|HH+HH:BD
+HH|HH|HH|HH
+HH+BD|HH+SD|HH+BD|HH+BD
+HH+BD:HH|HH+SD|HH+BD:HH|HH+BD
 ```
